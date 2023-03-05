@@ -1,0 +1,41 @@
+div {
+    margin-bottom:25px;
+  }
+  
+  p {
+    padding-bottom:15px;
+    font-size: 18px;
+  }
+  
+  .standard-btn {
+    text-decoration:none;
+    border: 2px solid #00ACEC;
+    padding:10px 20px 10px 20px;
+    border-radius:2px;
+    color:#00ACEC;
+    margin:5px;
+  }
+  .standard-btn-coloured {
+    text-decoration:none;
+    background:#00acec;
+    border: 2px solid #00ACEC;
+    padding:10px 20px 10px 20px;
+    border-radius:2px;
+    color:#FFFFFF;
+    margin:5px;
+  }
+  .standard-btn:hover {
+    color:#FFFFFF;
+    background-color:#00acec;
+  }
+  .standard-btn-coloured:hover {
+    color:#FFFFFF;
+    background-color:#009FDB;
+  }
+  
+  .btn-lg {
+    padding: 15px 40px 15px 40px;
+  }
+  
+
+                                                                                                  

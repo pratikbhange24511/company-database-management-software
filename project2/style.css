@@ -1,0 +1,166 @@
+body {
+
+  background: #090000;
+
+  display: flex;
+
+  justify-content: center;
+
+  align-items: center;
+
+  height: 70vh;
+
+  flex-direction: column;
+
+}
+
+*{
+
+  font-family: cursive;
+
+  box-sizing: padding-box;
+
+}
+
+form {
+
+  width: 200px;
+
+  border: 3px solid rgb(7, 41, 237);
+
+  padding: 40px;
+
+  background: rgb(96, 197, 228);
+
+  border-radius: 20px;
+   
+  
+
+}
+
+h2 {
+
+  text-align: center;
+
+  margin-bottom: 20px;
+  
+
+}
+
+input {
+
+  display: block;
+
+  border: 2px solid #0e0d0d;
+
+  width: 95%;
+
+  padding: 5px;
+
+  margin: 5px auto;
+
+  border-radius: 5px;
+
+}
+
+label {
+
+  color: #030303;
+
+  font-size: 20px;
+
+  padding: 5px;
+
+}
+
+button {
+
+  float: right;
+
+  background: rgb(3, 1, 24);
+
+  padding: 10px 15px;
+
+  color: #fff;
+
+  border-radius: 5px;
+
+  margin-right: 10px;
+
+  border: none;
+
+}
+
+button:hover{
+
+  opacity: .20;
+
+}
+
+.error {
+
+ background: #db2222;
+
+ color: #0c0101;
+
+ padding: 10px;
+
+ width: 95%;
+
+ border-radius: 5px;
+
+ margin: 20px auto;
+
+}
+
+h1 {
+
+  text-align: center;
+
+  color: rgb(134, 3, 3);
+
+}
+
+a {
+
+  float: right;
+
+  background: rgb(183, 225, 233);
+
+  padding: 10px 15px;
+
+  color: #fff;
+
+  border-radius: 10px;
+
+  margin-right: 10px;
+
+  border: none;
+
+  text-decoration: none;
+
+}
+.my-button {
+  background-color: blue; /* set the background color */
+  color: white; /* set the text color */
+  padding: 10px 20px; /* add some padding to the button */
+  border-radius: 5px; /* round the corners of the button */
+  text-decoration: none; /* remove the default underline */
+}
+
+.my-button:hover {
+  background-color: red; /* set the background color on hover */
+  color: white; /* set the text color on hover */
+}
+
+a:hover{
+
+  opacity: .7;
+
+}
+.btn{
+  color: #d2e7ee;
+  background-color: #030412;
+  border: #f2dede;
+  margin-bottom: 20px;
+}
